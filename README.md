@@ -3,6 +3,7 @@
 
 
 ### Team Members 
+
 * Hrithik 
 * Gopal 
 * Prasoon 
@@ -18,7 +19,7 @@
 
 
 ### Webserver Code 
-##### The webServer code connects ESP32 am to our Laptop 
+* The webServer code connects ESP32cam hardware to our Laptop which acts as the server. For real life application cloud can be integrated to be the server and AI algorithims can be implemented on to better hardware 
 
 
 ### Hardware Requirments 
